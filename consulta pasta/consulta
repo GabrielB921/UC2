@@ -1,0 +1,24 @@
+let numero1 = 90
+let numero2 = 45
+
+//comparar se um é diferente do outro
+console.log(numero1 !== numero2) //true
+
+//comparar se um é igual ao outro//
+ console.log(numero1 === numero2)//true
+
+ //comparar se um é maior que o outro//
+ console.log(numero1 > numero2) //true
+
+ //comparar se um é maior ou igual ao outro//
+ console.log(numero1 >= numero2) //true
+
+ //comparar se um é menor que o outro//
+ console.log(numero1 < numero2) //false
+
+ //comparar se um é menor ou igual ao outro
+ console.log(numero1 <= numero2) //false
+
+ 
+console.log("leonardo" === "leonardo")
+console.log 
